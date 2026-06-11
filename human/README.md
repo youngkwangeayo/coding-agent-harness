@@ -11,3 +11,4 @@
 ## 문서
 
 - [`harness-journal.md`](./harness-journal.md) — 하네스를 만들어온 결정 기록 + 열린 질문(가/나) 실험 일지
+- [`rule-masks.md`](./rule-masks.md) — 개별 규칙에 꽂는 의심·대안(마스크). 규칙은 그대로 두고 덧대어 쌓다가 결정 시 규칙을 고침
